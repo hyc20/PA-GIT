@@ -1,4 +1,4 @@
-Git 사용
+G it 사용
 
 1. 계정 정보 등록 
 	git config --global user.name 
@@ -12,3 +12,9 @@ Git 사용
  	git checkout -b main : main브랜치를 생성하고 해당 브랜치로 이동 
 	git branch -M main : 기본 브랜치를 main 브랜치로 지정 
 	git status : 상태 확인 
+4. 파일을 생성하고 add, commit하기 
+	git 
+
+
+
+
